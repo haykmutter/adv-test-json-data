@@ -1,0 +1,154 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Hayk",
+      "surname": "Petrosyan",
+      "idDocument": "51291695Q"
+    },
+    {
+      "id": "2",
+      "name": "Marc",
+      "surname": "Llopis",
+      "idDocument": "30992485Q"
+    },
+    {
+      "id": "3",
+      "name": "Raul",
+      "surname": "Martinez",
+      "idDocument": "47382756Q"
+    }
+  ],
+  "documents": [
+    {
+      "idClient": "1",
+      "contract_uploaded": "contrato_inquilino_1.pages"
+    },
+    {
+      "idClient": "2",
+      "contract_uploaded": "contrato_inquilino_2.pages"
+    },
+    {
+      "idClient": "3",
+      "contract_uploaded": "contrato_inquilino_3.pages"
+    }
+  ],
+  "rentedProperty": [
+    {
+      "id": "1",
+      "address": "Av diagonal",
+      "number": "319",
+      "postCode": "08860",
+      "floor": "1º 2ª",
+      "province": "Barcelona",
+      "city": "Barcelona"
+    },
+    {
+      "id": "2",
+      "address": "Av Riera",
+      "number": "19",
+      "postCode": "08030",
+      "floor": "3º 4ª",
+      "province": "Barcelona",
+      "city": "Barcelona"
+    },
+    {
+      "id": "3",
+      "address": "C/ Viladomat",
+      "number": "31",
+      "postCode": "08040",
+      "floor": "4º 1ª",
+      "province": "Barcelona",
+      "city": "Barcelona"
+    }
+  ],
+  "clientType": [
+    {
+      "id": 1,
+      "personType": {
+        "tenantOne": {
+          "tenantNameOne": "tenantNameOne",
+          "tenantSurnameOne": "tenantSurnameOne",
+          "tenantEmailOne": "tenantEmailOne",
+          "tenantPhoneOne": "tenantPhoneOne"
+        },
+        "tenantTwo": {
+          "tenantNameTwo": "tenantNameTwo",
+          "tenantSurnameTwo": "tenantSurnameTwo",
+          "tenantEmailTwo": "tenantEmailTwo",
+          "tenantPhoneTwo": "tenantPhoneTwo"
+        },
+        "guarantorOne": {
+          "guarantorNameOne": "guarantorNameOne",
+          "guarantorSurnameOne": "guarantorSurnameOne",
+          "guarantorEmailOne": "guarantorEmailOne",
+          "guarantorPhoneOne": "guarantorPhoneOne"
+        },
+        "guarantorTwo": {
+          "guarantorNameTwo": "guarantorNameTwo",
+          "guarantorSurnameTwo": "guarantorSurnameTwo",
+          "guarantorEmailTwo": "guarantorEmailTwo",
+          "guarantorPhoneTwo": "guarantorPhoneTwo"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "personType": {
+        "tenantOne": {
+          "tenantNameOne": "tenantNameOne",
+          "tenantSurnameOne": "tenantSurnameOne",
+          "tenantEmailOne": "tenantEmailOne",
+          "tenantPhoneOne": "tenantPhoneOne"
+        },
+        "tenantTwo": {
+          "tenantNameTwo": "tenantNameTwo",
+          "tenantSurnameTwo": "tenantSurnameTwo",
+          "tenantEmailTwo": "tenantEmailTwo",
+          "tenantPhoneTwo": "tenantPhoneTwo"
+        },
+        "guarantorOne": {
+          "guarantorNameOne": "guarantorNameOne",
+          "guarantorSurnameOne": "guarantorSurnameOne",
+          "guarantorEmailOne": "guarantorEmailOne",
+          "guarantorPhoneOne": "guarantorPhoneOne"
+        },
+        "guarantorTwo": {
+          "guarantorNameTwo": "guarantorNameTwo",
+          "guarantorSurnameTwo": "guarantorSurnameTwo",
+          "guarantorEmailTwo": "guarantorEmailTwo",
+          "guarantorPhoneTwo": "guarantorPhoneTwo"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "personType": {
+        "tenantOne": {
+          "tenantNameOne": "tenantNameOne",
+          "tenantSurnameOne": "tenantSurnameOne",
+          "tenantEmailOne": "tenantEmailOne",
+          "tenantPhoneOne": "tenantPhoneOne"
+        },
+        "tenantTwo": {
+          "tenantNameTwo": "tenantNameTwo",
+          "tenantSurnameTwo": "tenantSurnameTwo",
+          "tenantEmailTwo": "tenantEmailTwo",
+          "tenantPhoneTwo": "tenantPhoneTwo"
+        },
+        "guarantorOne": {
+          "guarantorNameOne": "guarantorNameOne",
+          "guarantorSurnameOne": "guarantorSurnameOne",
+          "guarantorEmailOne": "guarantorEmailOne",
+          "guarantorPhoneOne": "guarantorPhoneOne"
+        },
+        "guarantorTwo": {
+          "guarantorNameTwo": "guarantorNameTwo",
+          "guarantorSurnameTwo": "guarantorSurnameTwo",
+          "guarantorEmailTwo": "guarantorEmailTwo",
+          "guarantorPhoneTwo": "guarantorPhoneTwo"
+        }
+      }
+    }
+  ]
+}
